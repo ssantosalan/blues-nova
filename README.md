@@ -1,5 +1,6 @@
 # blues-nova
 
+<p> https://bluesnova.com.br/ </p>
 <strong>O que é Blues Nova?</strong>
 <ul>
     <li>É um Projeto pessoal feito por mim, conforme o aprendizado das linguagens do Front-end.</li>
