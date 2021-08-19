@@ -1,6 +1,6 @@
 # blues-nova
 
-<h1> O que é Blues Nova?</br>
+<h1> O que é Blues Nova?</h1>
 <p>É um Projeto pessoal feito por mim, conforme o aprendizado das linguagens do Front-end.</p>
 
 <h1> Objetivo </h1>
