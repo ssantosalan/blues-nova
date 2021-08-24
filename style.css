@@ -34,3 +34,15 @@ h2{
 p{
     text-align: justify;
 }
+
+a{
+    text-decoration: none;
+    color: #4900e7;
+    font-weight: bold;
+}
+
+a:hover{
+    color: rgb(255, 0, 0);
+    text-decoration: underline;
+}
+
