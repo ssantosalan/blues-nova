@@ -1,6 +1,6 @@
 # Blues Nova
 
-<p> <a href="https://bluesnova.com.br/" target="_blank" rel="external">https://bluesnova.com.br/</a> </p>
+<p>Site pessoal: <a href="https://bluesnova.com.br/" target="_blank" rel="external">https://bluesnova.com.br/</a> </p>
 
 ## O que é:
 <ul>
