@@ -2,12 +2,12 @@
 
 <p> <a href="https://bluesnova.com.br/" target="_blank" rel="external">https://bluesnova.com.br/</a> </p>
 
-<strong>O que é Blues Nova?</strong>
+## O que é:
 <ul>
     <li>É um Projeto pessoal feito por mim, conforme o aprendizado das linguagens do Front-end.</li>
 </ul>
 
-<strong>Objetivo: </strong>
+## Objetivo:
 <ul>
     <li>Além de ser algo feito para expressar-me, também utilizarei para colocar em prática o que eu for aprendendo.</li>
 </ul>
