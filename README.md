@@ -1,4 +1,4 @@
-# blues-nova
+# Blues Nova
 
 <p> <a href="https://bluesnova.com.br/" target="_blank" rel="external">https://bluesnova.com.br/</a> </p>
 
